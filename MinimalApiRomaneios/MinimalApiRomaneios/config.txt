@@ -1,0 +1,2 @@
+69426f43-d43b-4df3-96e0-4e9e3bbcd085
+DataSource=localhost;Database=C:\\firebird\\JONPACK\\JONPACK.FDB;User=SYSDBA;Password=123456;Charset=UTF8;
